@@ -1,0 +1,10 @@
+2018-11-01 15:44:54,238[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:46:03,729[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:47:14,508[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:47:18,578[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:47:36,119[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:47:50,207[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:48:35,701[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:50:20,291[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:51:07,716[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:51:54,908[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
